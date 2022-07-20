@@ -31,6 +31,7 @@ Arguments are defined in **utils/cinemagraph_utils.py**, at **set_args()** funct
 
 - **--image_dir**:         Directory of input image.
 - **--flow_dir**:          Directory of optical flow.
+- **--save_dir**:          Save directory of Cinemagraph result, and GAN Inversion result.
 - **--style_image_dir**:   Directory of style image. You can apply style of style image onto the original image.
 - **--n_frames**:          Number of frames for one cycle of looping animation.
 - **--n_loops**:           Number of loops to be repeated.
